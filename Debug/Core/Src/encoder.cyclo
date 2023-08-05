@@ -1,0 +1,3 @@
+encoder.c:3:10:read_angle	1
+encoder.c:21:10:read_flag	1
+encoder.c:47:10:ReadEncoder	1

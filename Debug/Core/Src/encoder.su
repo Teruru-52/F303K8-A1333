@@ -1,0 +1,3 @@
+../Core/Src/encoder.c:3:10:read_angle	24	static
+../Core/Src/encoder.c:21:10:read_flag	24	static
+../Core/Src/encoder.c:47:10:ReadEncoder	16	static
